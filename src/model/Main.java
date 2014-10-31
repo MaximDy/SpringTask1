@@ -1,6 +1,6 @@
 package model;
 
-import model.Interface.Knight.Knight;
+import model.interfaces.knight.Knight;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
